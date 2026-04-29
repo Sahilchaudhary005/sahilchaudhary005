@@ -35,3 +35,7 @@ I am a Data Analyst.<br>I have completed training in SQL, Excel, Python, and Pow
 [![](https://komarev.com/ghpvc/?username=Sahilchaudhary005&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Sahilchaudhary005/Sahilchaudhary005/blob/output/github-contribution-grid-snake.svg)
