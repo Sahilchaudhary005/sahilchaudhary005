@@ -1,4 +1,6 @@
-   Hi there I'm Sahil👋
+   <h1 align="center" style="font-size:42px;">
+✨ Hi there, I'm <span style="color:#1f6feb;">Sahil</span> 👋
+</h1>
 
 # 💫 About Me
 
@@ -25,6 +27,7 @@ I am ready to learn, grow, and contribute to the organization.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sahilchaudhary005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Sahilchaudhary005&theme=dark&hide_border=false)<br/>
@@ -35,6 +38,16 @@ I am ready to learn, grow, and contribute to the organization.
 
 ---
 [![](https://komarev.com/ghpvc/?username=Sahilchaudhary005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📁 Projects Showcase
+
+| # | Project | Tools/Domain | Description | Link |
+|---|--------|--------------|-------------|------|
+| 01 | 🎵 Spotify Data Analysis | Python, Data Analysis | Analyzed music streaming data to understand user listening trends, top artists, and track popularity. | [View Project](https://github.com/Sahilchaudhary005/SPOTIFY_DATA_ANALYSIS) |
+| 02 | 🎬 Netflix Project Analysis | Python, Data Analysis | Explored Netflix dataset to study content distribution, genres, release trends, and content growth over time. | [View Project](https://github.com/Sahilchaudhary005/NETFLIX_PROJECT) |
+| 03 | 📦 Supply Chain Analysis (Excel) | Excel, Dashboarding | Built Excel dashboard to analyze supply chain performance, inventory movement, and delivery efficiency. | [View Project](https://github.com/Sahilchaudhary005/SUPPLY_CHAIN_ANALYSIS_EXCEL) |
+| 04 | 🗄️ SQL Data Analysis Project | SQL | Performed data cleaning, joins, filtering, and analysis using SQL queries to extract business insights. | [View Project](https://github.com/Sahilchaudhary005/SQL-DATA-ANALYSIS) |
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
