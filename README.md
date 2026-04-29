@@ -66,7 +66,7 @@ I am ready to learn, grow, and contribute to the organization.
 
 <div align="center" style="border: 3px double #00FFFF; padding: 15px; border-radius: 10px;">
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me on Linkdin
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -74,8 +74,23 @@ I am ready to learn, grow, and contribute to the organization.
 
 <br><br>
 
-📊 Turning raw data into meaningful business decisions — one insight at a time.  
-🚀 I don’t just see data, I see stories, patterns, and opportunities hidden inside it.  
-📈 Every dataset has a story — my job is to uncover it and turn it into impact.
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+</p>
+
+<div align="center">
+
+## 🌊 Flowing with Data, Growing with Insights
+
+💡 I believe every dataset flows like water —  
+it may look simple, but inside it carries deep patterns and powerful stories.
+
+📊 My goal is to transform that flow into clear business decisions.
+
+🚀 Always learning, always improving, always evolving with data.
 
 </div>
