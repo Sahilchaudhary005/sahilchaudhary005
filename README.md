@@ -1,10 +1,15 @@
-   <h1 align="left" style="font-size:42px;">
+   <h1 align="center" style="font-size:42px;">
 ✨ Hi there, I'm <span style="color:#1f6feb;">Sahil</span> 👋
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi+there+I'm+Sahil+👋;Open+to+Work;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00FFFF&center=true&vCenter=true&width=900&lines=Open+to+Work;Aspiring+Data+Analyst;Turning+Data+into+Decisions" />
 </p>
+
+<h3 align="center">
+SQL ⚡ Power BI ⚡ Advanced Excel ⚡ Python
+</h3>
+
 
 # 💫 About Me
 
@@ -58,3 +63,19 @@ I am ready to learn, grow, and contribute to the organization.
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Sahilchaudhary005/Sahilchaudhary005/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center" style="border: 3px double #00FFFF; padding: 15px; border-radius: 10px;">
+
+## 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+📊 Turning raw data into meaningful business decisions — one insight at a time.  
+🚀 I don’t just see data, I see stories, patterns, and opportunities hidden inside it.  
+📈 Every dataset has a story — my job is to uncover it and turn it into impact.
+
+</div>
