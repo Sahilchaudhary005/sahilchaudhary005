@@ -1,6 +1,10 @@
-   <h1 align="center" style="font-size:42px;">
+   <h1 align="left" style="font-size:42px;">
 ✨ Hi there, I'm <span style="color:#1f6feb;">Sahil</span> 👋
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi+there+I'm+Sahil+👋;Open+to+Work;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel" />
+</p>
 
 # 💫 About Me
 
