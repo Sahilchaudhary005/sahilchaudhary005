@@ -1,8 +1,19 @@
 Hi there I'm Sahil👋
 
-# 💫 About Me:
-I am a Data Analyst.<br>I have completed training in SQL, Excel, Python, and Power BI.<br>I have hands-on experience working with datasets and building dashboards.<br>I have worked on projects like sales analysis and customer data analysis.<br>I can clean, analyze, and visualize data to generate insights.<br>I am a quick learner and have strong problem-solving skills.<br>I am currently looking for an opportunity to start my career as a Data Analyst.<br>I am ready to learn, grow, and contribute to the organization.<br>
+# 💫 About Me
 
+<p style="color:#1f6feb">
+
+I am a Data Analyst.<br>
+I have completed training in SQL, Excel, Python, and Power BI.<br>
+I have hands-on experience working with datasets and building dashboards.<br>
+I have worked on projects like sales analysis and customer data analysis.<br>
+I can clean, analyze, and visualize data to generate insights.<br>
+I am a quick learner and have strong problem-solving skills.<br>
+I am currently looking for an opportunity to start my career as a Data Analyst.<br>
+I am ready to learn, grow, and contribute to the organization.
+
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilchoudhary61990) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilchoudhary61990@gmail.com) 
@@ -34,6 +45,9 @@ I am a Data Analyst.<br>I have completed training in SQL, Excel, Python, and Pow
 ---
 [![](https://komarev.com/ghpvc/?username=Sahilchaudhary005&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilchaudhary005&layout=compact&theme=github_dark&hide=html,css)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🐍 Contribution Snake
