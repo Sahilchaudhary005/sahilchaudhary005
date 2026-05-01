@@ -66,6 +66,10 @@ I am ready to learn, grow, and contribute to the organization.
 
 <div align="center" style="border: 3px double #00FFFF; padding: 15px; border-radius: 10px;">
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchaudhary005&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
+</p>
+
 ## 🌐 Connect with Me on Linkdin
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
