@@ -27,7 +27,7 @@ I am ready to learn, grow, and contribute to the organization.
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilchoudhary61990) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilchoudhary61990@gmail.com) 
+   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilchoudhary61990@gmail.com) 
 
 
 # 💻 Tech Stack:
