@@ -72,7 +72,7 @@ I am ready to learn, grow, and contribute to the organization.
 
 ## 🌐 Connect with Me on Linkdin
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/sahilchaudhary55/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
